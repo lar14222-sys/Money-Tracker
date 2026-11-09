@@ -1,6 +1,6 @@
 {
-  "name": "Money Tracker",
-  "short_name": "Tracker",
+  "name": "Money Tracker App",
+  "short_name": "MoneyTracker",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
